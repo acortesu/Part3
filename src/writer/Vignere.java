@@ -109,14 +109,6 @@ public class Vignere implements Encripta{
             }
         }
 
-        //printing table to check if its correct
-//        for (int i = 0; i < 26; i++) {
-//            for (int j = 0; j < 26; j++) {
-//                System.out.print((char)tableArr[i][j] + " ");
-//            }
-//            System.out.println();
-//        }
-
         return tableArr;
     }
 
